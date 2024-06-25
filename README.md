@@ -5,12 +5,12 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 
 ## Task1 - Calculator
 A Calculator created under the virtual internship program of Oasis Infobyte. <br>
-[Live]()
+[Live](https://oasis-infobyte-ashy.vercel.app/)
 
 ## Task2 - Tribute Page
 A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live]()
+[Live](https://oasis-infobyte-1aou.vercel.app/)
 
 ## Task3 - Todo webapp
 A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
-[Live]()
+[Live](https://oasis-infobyte-er26.vercel.app/)
